@@ -13,3 +13,24 @@ Ecommerce store wants to create an annual sales report for 2022. So that, Busine
 6. Relation between age and gender based on number of orders
 7. Which channel is contributing to maximum sales?
 8. Highest selling category?
+
+# Data Cleaning
+Each column cross-checked for accuracy, consistency and any other discripencies using sort, filter and replace etc.
+
+# Data Processing
+Each column is reffered for calculation that help in data analysis.
+
+# Data Analysis
+Analysis done using pivot table, chart and slicer based on problems.
+
+# Data Visalization
+Compelete dashboard using charts, graph etc. in Excel.
+
+# Insights after Analysis
+1. Women are more likely to buy compared to men (~65%)
+2. Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
+3. Working age group (25-44 yrs) is max contributing (~50%)
+4. Amazon, Flipkart and Myntra channels are max contributing (80%)
+
+# Remarks
+Target women customers of age group (25-44 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing Ads/ offes/coupons avilable on Amazon, Flipkart and Myntra
